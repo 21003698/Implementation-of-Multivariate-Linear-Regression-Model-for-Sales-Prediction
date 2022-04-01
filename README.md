@@ -51,7 +51,8 @@ l.predict([[150.3,240.5,234.5]])
 ```
 
 ## Output:
-![](sandy1.png)
+<img width="190" alt="Screenshot 2022-04-01 203351" src="https://user-images.githubusercontent.com/93427522/161290916-e48019d7-177a-494d-823e-2d62b7e83ad0.png">
+
 
 
 ## Result:
